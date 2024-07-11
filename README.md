@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Nivedita-009/Nivedita-009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Nivedita Dixit</h1>
 <h3 align="center">A passionate python programmer from India</h3>
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/66c3fb2f101b107418cf09dbf7f8a1f76f4ed51bc1ac483a1a41aa3f8bdd6fdd/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3261343163303130393835303033372e356664636639616238323734362e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/66c3fb2f101b107418cf09dbf7f8a1f76f4ed51bc1ac483a1a41aa3f8bdd6fdd/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3261343163303130393835303033372e356664636639616238323734362e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivedita-009&label=Profile%20views&color=0e75b6&style=flat" alt="nivedita-009" /> </p>
 
--  🔭 I’m currently working on **python projects** 
+-  🔭 I’m currently working on *python projects*
 
-- 🌱 I’m currently learning  **Python Pro Bootcamp & web devlopment**
+- 🌱 I’m currently learning *Python Pro Bootcamp & web devlopment*
 
-- ⚡ Fun fact **i m funny**
+- ⚡ Fun fact i m funny!
 
 - 📫 How to reach me **anahitadixit@gmai.com**
 
