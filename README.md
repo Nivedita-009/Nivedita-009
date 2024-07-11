@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivedita-009&label=Profile%20views&color=0e75b6&style=flat" alt="nivedita-009" /> </p>
 
--  🔭 I’m currently working on **python projects** [Band name generator](https://appbrewery.github.io/python-day1-demo/)
+-  🔭 I’m currently working on **python projects** 
 
 - 🌱 I’m currently learning  **Python Pro Bootcamp & web devlopment**
 
