@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Nivedita Dixit</h1>
-<h3 align="center">A passionate from India</h3>
+<h3 align="center">A passionate python programmer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b9525qb5qzcacxgn3rbjsauvzuf18jd0kbyummgjj52x&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivedita-009&label=Profile%20views&color=0e75b6&style=flat" alt="nivedita-009" /> </p>
 
-- 🌱 I’m currently learning pro python and full stack web development**
+- 🌱 I’m currently learning python pro bootcamp and web development from Dr. Angela Yu udemy**
 
 - 📫 How to reach me **anahitadixit@gmai.com**
 
