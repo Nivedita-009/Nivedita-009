@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact i m funny!
 
-- 📫 How to reach me **anahitadixit@gmai.com**
+- 📫 How to reach me **niveditadixit14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
